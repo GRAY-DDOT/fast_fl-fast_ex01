@@ -1,6 +1,6 @@
 # fast_ex01
 
-A new Flutter project.
+exercising project fot Fastcampus Flutter Lecture
 
 ## Getting Started
 
